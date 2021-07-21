@@ -1,0 +1,56 @@
+/* header */
+.btn-primary {
+  background: #313461;
+  border-color: #313461;
+}
+.jumbotron {
+  background: url(/image/pexels-vojtech-okenka-392018.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
+  text-align: center;
+  border-bottom: 5px #f4f4f4 solid;
+  font-style: italic;
+}
+.jumbotron-main {
+  padding: 0 60px 40px 60px;
+}
+.jumbotron-sub {
+  padding: 0 60px 40px 60px;
+}
+.jumbotron-main h1 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.jumbotron p.lead {
+  font-size: 25px;
+  margin-bottom: 60px;
+}
+/* navbar */
+.navbar {
+  margin: o;
+  color: white;
+}
+.navbar a {
+  color: white;
+  margin-bottom: 3px;
+}
+.navbar a:hover {
+  background: none !important;
+  border-bottom: white 3px solid;
+  margin-bottom: 0;
+}
+.section-a {
+  background-color: #313461;
+  text-align: center;
+  color: #f4f4f4;
+  margin-bottom: 15px;
+}
+.main-footer {
+  display: flex;
+  padding: 25px;
+  background-color: #313461;
+  margin-top: 15px;
+  color: #f4f4f4;
+}
